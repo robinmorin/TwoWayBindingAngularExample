@@ -1,6 +1,10 @@
-# TwoWayExampleApp
+# Two-Way-Example-App 
+
+Angular 6 - The best Two-Way Binding Example!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
+
+First, run "npm install"
 
 ## Development server
 
