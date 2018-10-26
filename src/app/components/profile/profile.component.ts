@@ -12,7 +12,7 @@ export class ProfileComponent implements OnInit {
 
   public user: User = new User();
 
-  constructor(public userApiService: UserApiService) {
+  constructor(private userApiService: UserApiService) {
 
   }
 
